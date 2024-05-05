@@ -31,3 +31,5 @@ Hello, I am Enes YILDIZ. I am junior flutter developer from Turkey.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ensyldzz&show_icons=true&locale=en&layout=compact" height="150" alt="ensyldzz"/>
 </div>
 
+![snake gif](https://github.com/ensyldzz/ensyldzz/blob/output/github-contribution-grid-snake.gif)
+
