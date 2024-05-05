@@ -31,4 +31,12 @@ Hello, I am Enes YILDIZ. I am junior flutter developer from Turkey.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ensyldzz&show_icons=true&locale=en&layout=compact" height="150" alt="ensyldzz"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 
